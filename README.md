@@ -39,7 +39,7 @@ Blank template for wordpress developers using gulp v4, sass, jade, autoprefixer,
 ```
 ## Main repo #
 
-[https://github.com/narek-t/gulp-sass-jade][1]
+[https://github.com/narek-t/gulp-sass-jade][2]
 
   [1]: https://github.com/gulpjs/gulp/tree/4.0
   [2]: https://github.com/narek-t/gulp-sass-jade
